@@ -13,7 +13,7 @@ struct TabBarView: View { // ✅ Renamed to avoid conflict
             PlusView()
                 .tabItem {
                     Image(systemName: "homepod.and.homepod.mini.badge.plus")
-                    Text("Home")
+                    Text("New Drink")
                 }
                 .background(Color.clear)
 
